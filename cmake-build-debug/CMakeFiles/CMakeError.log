@@ -1,0 +1,35 @@
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+Apple clang version 11.0.3 (clang-1103.0.32.62)
+Target: x86_64-apple-darwin19.4.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Determining if the function __atomic_fetch_add exists failed with the following output:
+Change Dir: /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_697a4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_697a4.dir/build.make CMakeFiles/cmTC_697a4.dir/build
+Building C object CMakeFiles/cmTC_697a4.dir/CheckFunctionExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=__atomic_fetch_add -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o CMakeFiles/cmTC_697a4.dir/CheckFunctionExists.c.o -c "/Volumes/macOS - Data/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CheckFunctionExists.c"
+/Volumes/macOS - Data/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CheckFunctionExists.c:7:3: error: cannot redeclare builtin function '__atomic_fetch_add'
+  CHECK_FUNCTION_EXISTS(void);
+  ^
+<command line>:1:31: note: expanded from here
+#define CHECK_FUNCTION_EXISTS __atomic_fetch_add
+                              ^
+/Volumes/macOS - Data/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CheckFunctionExists.c:7:3: note: '__atomic_fetch_add' is a builtin with type 'void ()'
+<command line>:1:31: note: expanded from here
+#define CHECK_FUNCTION_EXISTS __atomic_fetch_add
+                              ^
+/Volumes/macOS - Data/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CheckFunctionExists.c:17:25: error: too few arguments to function call, expected 3, have 0
+  CHECK_FUNCTION_EXISTS();
+  ~~~~~~~~~~~~~~~~~~~~~ ^
+2 errors generated.
+make[1]: *** [CMakeFiles/cmTC_697a4.dir/CheckFunctionExists.c.o] Error 1
+make: *** [cmTC_697a4/fast] Error 2
+
+
+
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+Apple clang version 11.0.3 (clang-1103.0.32.62)
+Target: x86_64-apple-darwin19.4.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="libpng"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\external\;CMake Files\external\libpng\;CMake Files\external\libpng\scripts\;CMake Files\external\wolfssl\;CMake Files\external\wolfssl\cmake\;CMake Files\external\wolfssl\wolfcrypt\;CMake Files\external\wolfssl\wolfcrypt\test\;CMake Files\external\wolfssl\support\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_genfiles">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_genfiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_genprebuilt">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_genprebuilt"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_gensym">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_gensym"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_genvers">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_genvers"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_vers_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_vers_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_intprefix_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_intprefix_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_sym_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_sym_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_pnglibconf_c">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_pnglibconf_c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngprefix_h">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 pngprefix_h"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_prefix_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_prefix_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_static">
+				<Option output="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/libpng16d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPNG_INTEL_SSE_OPT=1"/>
+					<Add directory="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+					<Add directory="/Users/john/CLionProjects/pairdb/external/libpng"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_static"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_static/fast">
+				<Option output="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/libpng16d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPNG_INTEL_SSE_OPT=1"/>
+					<Add directory="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+					<Add directory="/Users/john/CLionProjects/pairdb/external/libpng"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_static/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnglibconf_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 pnglibconf_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_symbols_chk">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_symbols_chk"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_scripts_symbols_out">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 png_scripts_symbols_out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnglibconf_c">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 pnglibconf_c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnglibconf_h">
+				<Option working_dir="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 pnglibconf_h"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pnglibconf.c.rule">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pnglibconf.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pnglibconf.h.rule">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pnglibconf.out.rule">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pngprefix.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/cmake-build-debug/external/libpng/pngprefix.h.rule">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/intel/filter_sse2_intrinsics.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/intel/intel_init.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/png.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/png.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngconf.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngdebug.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngerror.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngget.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pnginfo.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngmem.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngpread.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngpriv.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngread.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngrio.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngrtran.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngrutil.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngset.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngstruct.h">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngtrans.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngwio.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngwrite.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngwtran.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngwutil.c">
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\libpng\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/libpng-config.in">
+			<Option virtualFolder="CMake Files\external\libpng\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/libpng.pc.in">
+			<Option virtualFolder="CMake Files\external\libpng\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/png.h">
+			<Option virtualFolder="CMake Files\external\libpng\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/pngconf.h">
+			<Option virtualFolder="CMake Files\external\libpng\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/checksym.awk">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/dfn.awk">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/genchk.cmake.in">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/genout.cmake.in">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/gensrc.cmake.in">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/libpng/scripts/options.awk">
+			<Option virtualFolder="CMake Files\external\libpng\scripts\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/wolfssl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\wolfssl\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/wolfssl/cmake/config.in">
+			<Option virtualFolder="CMake Files\external\wolfssl\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/wolfssl/cmake/functions.cmake">
+			<Option virtualFolder="CMake Files\external\wolfssl\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/wolfssl/wolfcrypt/test/test_paths.h.in">
+			<Option virtualFolder="CMake Files\external\wolfssl\wolfcrypt\test\"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/external/wolfssl/support/wolfssl.pc.in">
+			<Option virtualFolder="CMake Files\external\wolfssl\support\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
