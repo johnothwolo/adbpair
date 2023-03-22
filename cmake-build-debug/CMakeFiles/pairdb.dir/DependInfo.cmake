@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.c" "/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o"
   "/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c" "/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o"
   "/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c" "/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
   "/Users/john/CLionProjects/pairdb/src/spake25519/cbs.c" "/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o"

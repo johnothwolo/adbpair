@@ -362,9 +362,22 @@ CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/spake25519/spake25519.c -o CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s
 
+CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o: ../src/dnssd/DebugServices.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.c
+
+CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.c > CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.i
+
+CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.c -o CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.s
+
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o: ../src/dnssd/dnssd_clientstub.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c
 
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.i: cmake_force
@@ -377,7 +390,7 @@ CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o: ../src/dnssd/dnssd_ipc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c
 
 CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.i: cmake_force
@@ -412,6 +425,7 @@ pairdb_OBJECTS = \
 "CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o" \
 "CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o" \
 "CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o" \
+"CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o" \
 "CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o" \
 "CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
 
@@ -440,13 +454,14 @@ pairdb: CMakeFiles/pairdb.dir/src/tlv.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o
 pairdb: CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o
 pairdb: CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o
+pairdb: CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o
 pairdb: CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o
 pairdb: CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o
 pairdb: CMakeFiles/pairdb.dir/build.make
 pairdb: external/libpng/libpng16d.a
 pairdb: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/libz.tbd
 pairdb: CMakeFiles/pairdb.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable pairdb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable pairdb"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pairdb.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

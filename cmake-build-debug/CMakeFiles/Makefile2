@@ -184,7 +184,7 @@ CMakeFiles/pairdb.dir/all: external/libpng/CMakeFiles/png_static.dir/all
 CMakeFiles/pairdb.dir/all: external/wolfssl/CMakeFiles/wolfssl.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 "Built target pairdb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target pairdb"
 .PHONY : CMakeFiles/pairdb.dir/all
 
 # Build rule for subdir invocation for target.
@@ -223,12 +223,12 @@ external/libpng/CMakeFiles/png_genfiles.dir/all: external/libpng/CMakeFiles/pngl
 external/libpng/CMakeFiles/png_genfiles.dir/all: external/libpng/CMakeFiles/pnglibconf_h.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_genfiles.dir/build.make external/libpng/CMakeFiles/png_genfiles.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_genfiles.dir/build.make external/libpng/CMakeFiles/png_genfiles.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=21,22,23,24,25,26,27,28,29 "Built target png_genfiles"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30 "Built target png_genfiles"
 .PHONY : external/libpng/CMakeFiles/png_genfiles.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_genfiles.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 28
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_genfiles.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_genfiles.dir/rule
@@ -277,12 +277,12 @@ external/libpng/CMakeFiles/png_genprebuilt.dir/clean:
 external/libpng/CMakeFiles/png_gensym.dir/all: external/libpng/CMakeFiles/png_scripts_sym_out.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_gensym.dir/build.make external/libpng/CMakeFiles/png_gensym.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_gensym.dir/build.make external/libpng/CMakeFiles/png_gensym.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=30 "Built target png_gensym"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num= "Built target png_gensym"
 .PHONY : external/libpng/CMakeFiles/png_gensym.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_gensym.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_gensym.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_gensym.dir/rule
@@ -309,7 +309,7 @@ external/libpng/CMakeFiles/png_genvers.dir/all: external/libpng/CMakeFiles/png_s
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_genvers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_genvers.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_genvers.dir/rule
@@ -333,12 +333,12 @@ external/libpng/CMakeFiles/png_scripts_vers_out.dir/all: external/libpng/CMakeFi
 external/libpng/CMakeFiles/png_scripts_vers_out.dir/all: external/libpng/CMakeFiles/pnglibconf_h.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_vers_out.dir/build.make external/libpng/CMakeFiles/png_scripts_vers_out.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_vers_out.dir/build.make external/libpng/CMakeFiles/png_scripts_vers_out.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=42,43 "Built target png_scripts_vers_out"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=42,43,44 "Built target png_scripts_vers_out"
 .PHONY : external/libpng/CMakeFiles/png_scripts_vers_out.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_scripts_vers_out.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_scripts_vers_out.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_scripts_vers_out.dir/rule
@@ -362,12 +362,12 @@ external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/all: external/libpng/CM
 external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/all: external/libpng/CMakeFiles/pnglibconf_h.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/build.make external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/build.make external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=32,33 "Built target png_scripts_intprefix_out"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=32,33,34 "Built target png_scripts_intprefix_out"
 .PHONY : external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_scripts_intprefix_out.dir/rule
@@ -418,12 +418,12 @@ external/libpng/CMakeFiles/png_scripts_sym_out.dir/clean:
 external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/all:
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/build.make external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/build.make external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=34 "Built target png_scripts_pnglibconf_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num= "Built target png_scripts_pnglibconf_c"
 .PHONY : external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/rule
@@ -445,12 +445,12 @@ external/libpng/CMakeFiles/png_scripts_pnglibconf_c.dir/clean:
 external/libpng/CMakeFiles/pngprefix_h.dir/all:
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pngprefix_h.dir/build.make external/libpng/CMakeFiles/pngprefix_h.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pngprefix_h.dir/build.make external/libpng/CMakeFiles/pngprefix_h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=63 "Built target pngprefix_h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num= "Built target pngprefix_h"
 .PHONY : external/libpng/CMakeFiles/pngprefix_h.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/pngprefix_h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/pngprefix_h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/pngprefix_h.dir/rule
@@ -502,12 +502,12 @@ external/libpng/CMakeFiles/png_static.dir/all: external/libpng/CMakeFiles/pnglib
 external/libpng/CMakeFiles/png_static.dir/all: external/libpng/CMakeFiles/pnglibconf_c.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_static.dir/build.make external/libpng/CMakeFiles/png_static.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/png_static.dir/build.make external/libpng/CMakeFiles/png_static.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=44,45,46,47,48,49,50,51,52,53,54,55,56,57,58 "Built target png_static"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=45,46,47,48,49,50,51,52,53,54,55,56,57,58,59 "Built target png_static"
 .PHONY : external/libpng/CMakeFiles/png_static.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/png_static.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 43
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 42
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/png_static.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/png_static.dir/rule
@@ -529,7 +529,7 @@ external/libpng/CMakeFiles/png_static.dir/clean:
 external/libpng/CMakeFiles/pnglibconf_out.dir/all: external/libpng/CMakeFiles/pnglibconf_c.dir/all
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pnglibconf_out.dir/build.make external/libpng/CMakeFiles/pnglibconf_out.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pnglibconf_out.dir/build.make external/libpng/CMakeFiles/pnglibconf_out.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=62 "Built target pnglibconf_out"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=62,63 "Built target pnglibconf_out"
 .PHONY : external/libpng/CMakeFiles/pnglibconf_out.dir/all
 
 # Build rule for subdir invocation for target.
@@ -610,12 +610,12 @@ external/libpng/CMakeFiles/png_scripts_symbols_out.dir/clean:
 external/libpng/CMakeFiles/pnglibconf_c.dir/all:
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pnglibconf_c.dir/build.make external/libpng/CMakeFiles/pnglibconf_c.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/libpng/CMakeFiles/pnglibconf_c.dir/build.make external/libpng/CMakeFiles/pnglibconf_c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=59 "Built target pnglibconf_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num= "Built target pnglibconf_c"
 .PHONY : external/libpng/CMakeFiles/pnglibconf_c.dir/all
 
 # Build rule for subdir invocation for target.
 external/libpng/CMakeFiles/pnglibconf_c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/libpng/CMakeFiles/pnglibconf_c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/libpng/CMakeFiles/pnglibconf_c.dir/rule
@@ -665,12 +665,12 @@ external/libpng/CMakeFiles/pnglibconf_h.dir/clean:
 external/wolfssl/CMakeFiles/tls_bench.dir/all: external/wolfssl/CMakeFiles/wolfssl.dir/all
 	$(MAKE) $(MAKESILENT) -f external/wolfssl/CMakeFiles/tls_bench.dir/build.make external/wolfssl/CMakeFiles/tls_bench.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/wolfssl/CMakeFiles/tls_bench.dir/build.make external/wolfssl/CMakeFiles/tls_bench.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target tls_bench"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=66 "Built target tls_bench"
 .PHONY : external/wolfssl/CMakeFiles/tls_bench.dir/all
 
 # Build rule for subdir invocation for target.
 external/wolfssl/CMakeFiles/tls_bench.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 27
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 26
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/wolfssl/CMakeFiles/tls_bench.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/wolfssl/CMakeFiles/tls_bench.dir/rule
@@ -773,12 +773,12 @@ external/wolfssl/CMakeFiles/echoserver.dir/clean:
 external/wolfssl/CMakeFiles/server.dir/all: external/wolfssl/CMakeFiles/wolfssl.dir/all
 	$(MAKE) $(MAKESILENT) -f external/wolfssl/CMakeFiles/server.dir/build.make external/wolfssl/CMakeFiles/server.dir/depend
 	$(MAKE) $(MAKESILENT) -f external/wolfssl/CMakeFiles/server.dir/build.make external/wolfssl/CMakeFiles/server.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=64 "Built target server"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=64,65 "Built target server"
 .PHONY : external/wolfssl/CMakeFiles/server.dir/all
 
 # Build rule for subdir invocation for target.
 external/wolfssl/CMakeFiles/server.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 26
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 external/wolfssl/CMakeFiles/server.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles 0
 .PHONY : external/wolfssl/CMakeFiles/server.dir/rule

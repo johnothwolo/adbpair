@@ -729,6 +729,33 @@ src/crypto.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/crypto.cpp.s
 .PHONY : src/crypto.cpp.s
 
+src/dnssd/DebugServices.o: src/dnssd/DebugServices.c.o
+
+.PHONY : src/dnssd/DebugServices.o
+
+# target to build an object file
+src/dnssd/DebugServices.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o
+.PHONY : src/dnssd/DebugServices.c.o
+
+src/dnssd/DebugServices.i: src/dnssd/DebugServices.c.i
+
+.PHONY : src/dnssd/DebugServices.i
+
+# target to preprocess a source file
+src/dnssd/DebugServices.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.i
+.PHONY : src/dnssd/DebugServices.c.i
+
+src/dnssd/DebugServices.s: src/dnssd/DebugServices.c.s
+
+.PHONY : src/dnssd/DebugServices.s
+
+# target to generate assembly for a file
+src/dnssd/DebugServices.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.s
+.PHONY : src/dnssd/DebugServices.c.s
+
 src/dnssd/dnssd_clientstub.o: src/dnssd/dnssd_clientstub.c.o
 
 .PHONY : src/dnssd/dnssd_clientstub.o
@@ -1223,6 +1250,9 @@ help:
 	@echo "... src/crypto.o"
 	@echo "... src/crypto.i"
 	@echo "... src/crypto.s"
+	@echo "... src/dnssd/DebugServices.o"
+	@echo "... src/dnssd/DebugServices.i"
+	@echo "... src/dnssd/DebugServices.s"
 	@echo "... src/dnssd/dnssd_clientstub.o"
 	@echo "... src/dnssd/dnssd_clientstub.i"
 	@echo "... src/dnssd/dnssd_clientstub.s"

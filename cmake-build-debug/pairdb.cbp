@@ -2023,6 +2023,12 @@
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/crypto.hpp">
 			<Option target="pairdb"/>
 		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.c">
+			<Option target="pairdb"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/DebugServices.h">
+			<Option target="pairdb"/>
+		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dns_sd.h">
 			<Option target="pairdb"/>
 		</Unit>

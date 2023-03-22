@@ -54,6 +54,8 @@ add_executable(pairdb
         src/spake25519/spake25519.c
         src/spake25519/spake25519.h
 
+        src/dnssd/DebugServices.c
+        src/dnssd/DebugServices.h
         src/dnssd/dns_sd.h
         src/dnssd/dnssd_clientstub.c
         src/dnssd/dnssd_clientstub.h

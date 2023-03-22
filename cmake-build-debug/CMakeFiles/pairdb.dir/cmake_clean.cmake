@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/pairdb.dir/src/aes_128_gcm.cpp.o"
   "CMakeFiles/pairdb.dir/src/android_pubkey.cpp.o"
   "CMakeFiles/pairdb.dir/src/crypto.cpp.o"
+  "CMakeFiles/pairdb.dir/src/dnssd/DebugServices.c.o"
   "CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o"
   "CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
   "CMakeFiles/pairdb.dir/src/main.cpp.o"
