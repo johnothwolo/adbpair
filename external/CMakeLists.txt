@@ -36,25 +36,6 @@ endmacro()
 ###################################################################
 ## NOTE: CMAKE_CURRENT_BINARY_DIR changes according to the directory CMakeLists.txt is in.
 
-
-# ######## dnssd configuration ########
-# #####################################
-
-# # Set the name and directory of the external project
-# set(DNSSD_DIR ${EXTERNAL_DIR}/mDNSResponder)
-
-# ExternalProject_Add(
-#     libdnssd
-#     PREFIX ${EXTERNAL_DIR}
-#     SOURCE_DIR ${EXTERNAL_DIR}
-#     BINARY_DIR ${EXTERNAL_DIR}
-#     CONFIGURE_COMMAND ${EXTERNAL_DIR}/configure
-#     BUILD_COMMAND make
-# )
-
-
-
-
 #### libpng configurable options ####
 #####################################
 
