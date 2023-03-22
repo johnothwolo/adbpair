@@ -20,8 +20,6 @@
 #include "pairing_auth.hpp"
 #include "aes_128_gcm.hpp"
 
-#include "spake25519.h"
-
 #include <iostream>
 #include <iomanip>
 #include <sstream>

@@ -57,7 +57,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -79,7 +78,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -120,7 +118,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/internal.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -215,7 +212,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfss
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -237,7 +233,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfss
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -267,7 +262,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfss
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/keys.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -324,6 +318,7 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/linuxkm
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/bio.c
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/conf.c
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/pk.c
+external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/ssl_bn.c
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/ssl_misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/x509.c
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/src/x509_str.c
@@ -387,7 +382,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -409,7 +403,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -440,7 +433,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/ssl.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -536,7 +528,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -559,7 +550,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -590,7 +580,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -687,7 +676,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -709,7 +697,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -739,7 +726,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/tls13.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -834,7 +820,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -856,7 +841,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -885,7 +869,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/src/wolfio.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -979,7 +962,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -996,7 +978,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -1032,7 +1013,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/aes.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1129,7 +1109,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -1151,7 +1130,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -1192,7 +1170,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/asn.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -1242,13 +1219,11 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cpuid.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -1264,7 +1239,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -1295,13 +1269,11 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha20_poly1305.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -1318,7 +1290,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/chacha20_poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -1356,14 +1327,12 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/coding.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dsa.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
@@ -1382,7 +1351,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/coding.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
@@ -1417,7 +1385,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wol
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cpuid.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/memory.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/settings.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/cpuid.c.o: ../external/wolfssl/wolfssl/wolfcrypt/types.h
@@ -1441,14 +1408,12 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfss
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dsa.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ecc.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
@@ -1468,7 +1433,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfss
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/dh.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1520,7 +1484,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -1533,7 +1496,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -1568,7 +1530,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cypress/psoc6_crypto.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/ecc.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1609,7 +1570,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wol
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/memory.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/settings.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/error.c.o: ../external/wolfssl/wolfssl/wolfcrypt/types.h
@@ -1637,7 +1597,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -1650,7 +1609,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -1673,7 +1631,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1725,7 +1682,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -1738,7 +1694,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -1761,7 +1716,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/hmac.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1810,7 +1764,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/curve25519.h
@@ -1820,7 +1773,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
@@ -1841,7 +1793,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/integer.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1883,11 +1834,9 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/kdf.h
@@ -1905,7 +1854,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/kdf.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -1937,7 +1885,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/mem_track.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/memory.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/settings.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/logging.c.o: ../external/wolfssl/wolfssl/wolfcrypt/types.h
@@ -1954,11 +1901,9 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -1974,7 +1919,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/md5.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -2004,7 +1948,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/memory.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/settings.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/memory.c.o: ../external/wolfssl/wolfssl/wolfcrypt/types.h
@@ -2030,13 +1973,11 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dsa.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
@@ -2057,7 +1998,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pkcs12.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
@@ -2096,12 +2036,10 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cpuid.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -2118,7 +2056,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/poly1305.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -2151,11 +2088,9 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
@@ -2175,7 +2110,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/pwdbased.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -2256,7 +2190,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -2273,7 +2206,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -2309,7 +2241,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/random.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -2369,7 +2300,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -2382,7 +2312,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -2405,7 +2334,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/rsa.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -2458,7 +2386,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -2471,7 +2398,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -2498,7 +2424,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfs
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -2551,7 +2476,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -2565,7 +2489,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -2592,7 +2515,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha256.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -2634,12 +2556,10 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cpuid.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -2655,7 +2575,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha3.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -2697,7 +2616,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/aes.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/cmac.h
@@ -2711,7 +2629,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -2738,7 +2655,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sha512.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -2785,14 +2701,12 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/options.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dsa.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ecc.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
@@ -2811,7 +2725,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/signature.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -2853,11 +2766,9 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/md2.h
@@ -2873,7 +2784,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wo
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/sp_int.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h
@@ -2918,7 +2828,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../externa
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -2927,7 +2836,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../externa
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/dsa.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
@@ -2947,7 +2855,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../externa
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_encrypt.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
@@ -3038,7 +2945,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -3054,7 +2960,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ed25519.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hmac.h
@@ -3094,7 +2999,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/w
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_octeon_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cypress/psoc6_crypto.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wc_port.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -3145,11 +3049,9 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/linuxkm/linuxkm_wc_port.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfcrypt/src/misc.c
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/options.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/integer.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/logging.h
@@ -3168,7 +3070,6 @@ external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_hash.h
 external/wolfssl/CMakeFiles/wolfssl.dir/wolfcrypt/src/wolfmath.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/wc_kcapi.h

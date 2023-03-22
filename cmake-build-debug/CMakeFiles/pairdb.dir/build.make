@@ -128,22 +128,9 @@ CMakeFiles/pairdb.dir/src/android_pubkey.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pairdb.dir/src/android_pubkey.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/john/CLionProjects/pairdb/src/android_pubkey.cpp -o CMakeFiles/pairdb.dir/src/android_pubkey.cpp.s
 
-CMakeFiles/pairdb.dir/src/cbs.c.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/cbs.c.o: ../src/cbs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/pairdb.dir/src/cbs.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/cbs.c.o -c /Users/john/CLionProjects/pairdb/src/cbs.c
-
-CMakeFiles/pairdb.dir/src/cbs.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/cbs.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/cbs.c > CMakeFiles/pairdb.dir/src/cbs.c.i
-
-CMakeFiles/pairdb.dir/src/cbs.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/cbs.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/cbs.c -o CMakeFiles/pairdb.dir/src/cbs.c.s
-
 CMakeFiles/pairdb.dir/src/crypto.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/crypto.cpp.o: ../src/crypto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pairdb.dir/src/crypto.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pairdb.dir/src/crypto.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/crypto.cpp.o -c /Users/john/CLionProjects/pairdb/src/crypto.cpp
 
 CMakeFiles/pairdb.dir/src/crypto.cpp.i: cmake_force
@@ -154,48 +141,9 @@ CMakeFiles/pairdb.dir/src/crypto.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pairdb.dir/src/crypto.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/john/CLionProjects/pairdb/src/crypto.cpp -o CMakeFiles/pairdb.dir/src/crypto.cpp.s
 
-CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o: ../src/dnssd_clientstub.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd_clientstub.c
-
-CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/dnssd_clientstub.c > CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.i
-
-CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/dnssd_clientstub.c -o CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.s
-
-CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o: ../src/dnssd_ipc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd_ipc.c
-
-CMakeFiles/pairdb.dir/src/dnssd_ipc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/dnssd_ipc.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/dnssd_ipc.c > CMakeFiles/pairdb.dir/src/dnssd_ipc.c.i
-
-CMakeFiles/pairdb.dir/src/dnssd_ipc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/dnssd_ipc.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/dnssd_ipc.c -o CMakeFiles/pairdb.dir/src/dnssd_ipc.c.s
-
-CMakeFiles/pairdb.dir/src/edwards25519.c.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/edwards25519.c.o: ../src/edwards25519.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/pairdb.dir/src/edwards25519.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/edwards25519.c.o -c /Users/john/CLionProjects/pairdb/src/edwards25519.c
-
-CMakeFiles/pairdb.dir/src/edwards25519.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/edwards25519.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/edwards25519.c > CMakeFiles/pairdb.dir/src/edwards25519.c.i
-
-CMakeFiles/pairdb.dir/src/edwards25519.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/edwards25519.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/edwards25519.c -o CMakeFiles/pairdb.dir/src/edwards25519.c.s
-
 CMakeFiles/pairdb.dir/src/main.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/pairdb.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pairdb.dir/src/main.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/main.cpp.o -c /Users/john/CLionProjects/pairdb/src/main.cpp
 
 CMakeFiles/pairdb.dir/src/main.cpp.i: cmake_force
@@ -208,7 +156,7 @@ CMakeFiles/pairdb.dir/src/main.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o: ../src/mdns_manager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o -c /Users/john/CLionProjects/pairdb/src/mdns_manager.cpp
 
 CMakeFiles/pairdb.dir/src/mdns_manager.cpp.i: cmake_force
@@ -221,7 +169,7 @@ CMakeFiles/pairdb.dir/src/mdns_manager.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/pair_client.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/pair_client.cpp.o: ../src/pair_client.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/pairdb.dir/src/pair_client.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/pairdb.dir/src/pair_client.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/pair_client.cpp.o -c /Users/john/CLionProjects/pairdb/src/pair_client.cpp
 
 CMakeFiles/pairdb.dir/src/pair_client.cpp.i: cmake_force
@@ -234,7 +182,7 @@ CMakeFiles/pairdb.dir/src/pair_client.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/pairing_auth.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/pairing_auth.cpp.o: ../src/pairing_auth.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/pairdb.dir/src/pairing_auth.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/pairdb.dir/src/pairing_auth.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/pairing_auth.cpp.o -c /Users/john/CLionProjects/pairdb/src/pairing_auth.cpp
 
 CMakeFiles/pairdb.dir/src/pairing_auth.cpp.i: cmake_force
@@ -247,7 +195,7 @@ CMakeFiles/pairdb.dir/src/pairing_auth.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/pairing_connection.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/pairing_connection.cpp.o: ../src/pairing_connection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/pairdb.dir/src/pairing_connection.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/pairdb.dir/src/pairing_connection.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/pairing_connection.cpp.o -c /Users/john/CLionProjects/pairdb/src/pairing_connection.cpp
 
 CMakeFiles/pairdb.dir/src/pairing_connection.cpp.i: cmake_force
@@ -260,7 +208,7 @@ CMakeFiles/pairdb.dir/src/pairing_connection.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/QrCode.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/QrCode.cpp.o: ../src/QrCode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/pairdb.dir/src/QrCode.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/pairdb.dir/src/QrCode.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/QrCode.cpp.o -c /Users/john/CLionProjects/pairdb/src/QrCode.cpp
 
 CMakeFiles/pairdb.dir/src/QrCode.cpp.i: cmake_force
@@ -273,7 +221,7 @@ CMakeFiles/pairdb.dir/src/QrCode.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/QrToPng.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/QrToPng.cpp.o: ../src/QrToPng.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/pairdb.dir/src/QrToPng.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/pairdb.dir/src/QrToPng.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/QrToPng.cpp.o -c /Users/john/CLionProjects/pairdb/src/QrToPng.cpp
 
 CMakeFiles/pairdb.dir/src/QrToPng.cpp.i: cmake_force
@@ -286,7 +234,7 @@ CMakeFiles/pairdb.dir/src/QrToPng.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o: ../src/rsa_2048_hey.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o -c /Users/john/CLionProjects/pairdb/src/rsa_2048_hey.cpp
 
 CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.i: cmake_force
@@ -299,7 +247,7 @@ CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o: ../src/socket_network_client_unix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o -c /Users/john/CLionProjects/pairdb/src/socket_network_client_unix.cpp
 
 CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.i: cmake_force
@@ -312,7 +260,7 @@ CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o: ../src/socket_network_windows.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o -c /Users/john/CLionProjects/pairdb/src/socket_network_windows.cpp
 
 CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.i: cmake_force
@@ -325,7 +273,7 @@ CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/sockets.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/sockets.cpp.o: ../src/sockets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/pairdb.dir/src/sockets.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/pairdb.dir/src/sockets.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/sockets.cpp.o -c /Users/john/CLionProjects/pairdb/src/sockets.cpp
 
 CMakeFiles/pairdb.dir/src/sockets.cpp.i: cmake_force
@@ -336,35 +284,9 @@ CMakeFiles/pairdb.dir/src/sockets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pairdb.dir/src/sockets.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/john/CLionProjects/pairdb/src/sockets.cpp -o CMakeFiles/pairdb.dir/src/sockets.cpp.s
 
-CMakeFiles/pairdb.dir/src/spake25519.c.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/spake25519.c.o: ../src/spake25519.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/pairdb.dir/src/spake25519.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/spake25519.c.o -c /Users/john/CLionProjects/pairdb/src/spake25519.c
-
-CMakeFiles/pairdb.dir/src/spake25519.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/spake25519.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/spake25519.c > CMakeFiles/pairdb.dir/src/spake25519.c.i
-
-CMakeFiles/pairdb.dir/src/spake25519.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/spake25519.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/spake25519.c -o CMakeFiles/pairdb.dir/src/spake25519.c.s
-
-CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o: CMakeFiles/pairdb.dir/flags.make
-CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o: ../src/sssl_cert.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o -c /Users/john/CLionProjects/pairdb/src/sssl_cert.cpp
-
-CMakeFiles/pairdb.dir/src/sssl_cert.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pairdb.dir/src/sssl_cert.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/john/CLionProjects/pairdb/src/sssl_cert.cpp > CMakeFiles/pairdb.dir/src/sssl_cert.cpp.i
-
-CMakeFiles/pairdb.dir/src/sssl_cert.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pairdb.dir/src/sssl_cert.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/john/CLionProjects/pairdb/src/sssl_cert.cpp -o CMakeFiles/pairdb.dir/src/sssl_cert.cpp.s
-
 CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o: ../src/TinyPngOut.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o -c /Users/john/CLionProjects/pairdb/src/TinyPngOut.cpp
 
 CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.i: cmake_force
@@ -377,7 +299,7 @@ CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/tls_connection.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/tls_connection.cpp.o: ../src/tls_connection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/pairdb.dir/src/tls_connection.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/pairdb.dir/src/tls_connection.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/tls_connection.cpp.o -c /Users/john/CLionProjects/pairdb/src/tls_connection.cpp
 
 CMakeFiles/pairdb.dir/src/tls_connection.cpp.i: cmake_force
@@ -390,7 +312,7 @@ CMakeFiles/pairdb.dir/src/tls_connection.cpp.s: cmake_force
 
 CMakeFiles/pairdb.dir/src/tlv.cpp.o: CMakeFiles/pairdb.dir/flags.make
 CMakeFiles/pairdb.dir/src/tlv.cpp.o: ../src/tlv.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/pairdb.dir/src/tlv.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/pairdb.dir/src/tlv.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pairdb.dir/src/tlv.cpp.o -c /Users/john/CLionProjects/pairdb/src/tlv.cpp
 
 CMakeFiles/pairdb.dir/src/tlv.cpp.i: cmake_force
@@ -401,17 +323,78 @@ CMakeFiles/pairdb.dir/src/tlv.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pairdb.dir/src/tlv.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/john/CLionProjects/pairdb/src/tlv.cpp -o CMakeFiles/pairdb.dir/src/tlv.cpp.s
 
+CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o: ../src/spake25519/cbs.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o -c /Users/john/CLionProjects/pairdb/src/spake25519/cbs.c
+
+CMakeFiles/pairdb.dir/src/spake25519/cbs.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/spake25519/cbs.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/spake25519/cbs.c > CMakeFiles/pairdb.dir/src/spake25519/cbs.c.i
+
+CMakeFiles/pairdb.dir/src/spake25519/cbs.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/spake25519/cbs.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/spake25519/cbs.c -o CMakeFiles/pairdb.dir/src/spake25519/cbs.c.s
+
+CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o: ../src/spake25519/edwards25519.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o -c /Users/john/CLionProjects/pairdb/src/spake25519/edwards25519.c
+
+CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/spake25519/edwards25519.c > CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.i
+
+CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/spake25519/edwards25519.c -o CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.s
+
+CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o: ../src/spake25519/spake25519.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o -c /Users/john/CLionProjects/pairdb/src/spake25519/spake25519.c
+
+CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/spake25519/spake25519.c > CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.i
+
+CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/spake25519/spake25519.c -o CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o: ../src/dnssd/dnssd_clientstub.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c > CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.i
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.s
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o: CMakeFiles/pairdb.dir/flags.make
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o: ../src/dnssd/dnssd_ipc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o -c /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c > CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.i
+
+CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c -o CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.s
+
 # Object files for target pairdb
 pairdb_OBJECTS = \
 "CMakeFiles/pairdb.dir/src/adb_env.cpp.o" \
 "CMakeFiles/pairdb.dir/src/adb_utils.cpp.o" \
 "CMakeFiles/pairdb.dir/src/aes_128_gcm.cpp.o" \
 "CMakeFiles/pairdb.dir/src/android_pubkey.cpp.o" \
-"CMakeFiles/pairdb.dir/src/cbs.c.o" \
 "CMakeFiles/pairdb.dir/src/crypto.cpp.o" \
-"CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o" \
-"CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o" \
-"CMakeFiles/pairdb.dir/src/edwards25519.c.o" \
 "CMakeFiles/pairdb.dir/src/main.cpp.o" \
 "CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o" \
 "CMakeFiles/pairdb.dir/src/pair_client.cpp.o" \
@@ -423,11 +406,14 @@ pairdb_OBJECTS = \
 "CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o" \
 "CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o" \
 "CMakeFiles/pairdb.dir/src/sockets.cpp.o" \
-"CMakeFiles/pairdb.dir/src/spake25519.c.o" \
-"CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o" \
 "CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o" \
 "CMakeFiles/pairdb.dir/src/tls_connection.cpp.o" \
-"CMakeFiles/pairdb.dir/src/tlv.cpp.o"
+"CMakeFiles/pairdb.dir/src/tlv.cpp.o" \
+"CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o" \
+"CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o" \
+"CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o" \
+"CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o" \
+"CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o"
 
 # External object files for target pairdb
 pairdb_EXTERNAL_OBJECTS =
@@ -436,11 +422,7 @@ pairdb: CMakeFiles/pairdb.dir/src/adb_env.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/adb_utils.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/aes_128_gcm.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/android_pubkey.cpp.o
-pairdb: CMakeFiles/pairdb.dir/src/cbs.c.o
 pairdb: CMakeFiles/pairdb.dir/src/crypto.cpp.o
-pairdb: CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o
-pairdb: CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o
-pairdb: CMakeFiles/pairdb.dir/src/edwards25519.c.o
 pairdb: CMakeFiles/pairdb.dir/src/main.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/mdns_manager.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/pair_client.cpp.o
@@ -452,16 +434,19 @@ pairdb: CMakeFiles/pairdb.dir/src/rsa_2048_hey.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/socket_network_client_unix.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/socket_network_windows.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/sockets.cpp.o
-pairdb: CMakeFiles/pairdb.dir/src/spake25519.c.o
-pairdb: CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/TinyPngOut.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/tls_connection.cpp.o
 pairdb: CMakeFiles/pairdb.dir/src/tlv.cpp.o
+pairdb: CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o
+pairdb: CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o
+pairdb: CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o
+pairdb: CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o
+pairdb: CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o
 pairdb: CMakeFiles/pairdb.dir/build.make
 pairdb: external/libpng/libpng16d.a
 pairdb: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/libz.tbd
 pairdb: CMakeFiles/pairdb.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable pairdb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/john/CLionProjects/pairdb/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable pairdb"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pairdb.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

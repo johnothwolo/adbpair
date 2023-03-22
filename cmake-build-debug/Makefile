@@ -702,33 +702,6 @@ src/android_pubkey.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/android_pubkey.cpp.s
 .PHONY : src/android_pubkey.cpp.s
 
-src/cbs.o: src/cbs.c.o
-
-.PHONY : src/cbs.o
-
-# target to build an object file
-src/cbs.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/cbs.c.o
-.PHONY : src/cbs.c.o
-
-src/cbs.i: src/cbs.c.i
-
-.PHONY : src/cbs.i
-
-# target to preprocess a source file
-src/cbs.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/cbs.c.i
-.PHONY : src/cbs.c.i
-
-src/cbs.s: src/cbs.c.s
-
-.PHONY : src/cbs.s
-
-# target to generate assembly for a file
-src/cbs.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/cbs.c.s
-.PHONY : src/cbs.c.s
-
 src/crypto.o: src/crypto.cpp.o
 
 .PHONY : src/crypto.o
@@ -756,86 +729,59 @@ src/crypto.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/crypto.cpp.s
 .PHONY : src/crypto.cpp.s
 
-src/dnssd_clientstub.o: src/dnssd_clientstub.c.o
+src/dnssd/dnssd_clientstub.o: src/dnssd/dnssd_clientstub.c.o
 
-.PHONY : src/dnssd_clientstub.o
-
-# target to build an object file
-src/dnssd_clientstub.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.o
-.PHONY : src/dnssd_clientstub.c.o
-
-src/dnssd_clientstub.i: src/dnssd_clientstub.c.i
-
-.PHONY : src/dnssd_clientstub.i
-
-# target to preprocess a source file
-src/dnssd_clientstub.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.i
-.PHONY : src/dnssd_clientstub.c.i
-
-src/dnssd_clientstub.s: src/dnssd_clientstub.c.s
-
-.PHONY : src/dnssd_clientstub.s
-
-# target to generate assembly for a file
-src/dnssd_clientstub.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_clientstub.c.s
-.PHONY : src/dnssd_clientstub.c.s
-
-src/dnssd_ipc.o: src/dnssd_ipc.c.o
-
-.PHONY : src/dnssd_ipc.o
+.PHONY : src/dnssd/dnssd_clientstub.o
 
 # target to build an object file
-src/dnssd_ipc.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_ipc.c.o
-.PHONY : src/dnssd_ipc.c.o
+src/dnssd/dnssd_clientstub.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.o
+.PHONY : src/dnssd/dnssd_clientstub.c.o
 
-src/dnssd_ipc.i: src/dnssd_ipc.c.i
+src/dnssd/dnssd_clientstub.i: src/dnssd/dnssd_clientstub.c.i
 
-.PHONY : src/dnssd_ipc.i
+.PHONY : src/dnssd/dnssd_clientstub.i
 
 # target to preprocess a source file
-src/dnssd_ipc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_ipc.c.i
-.PHONY : src/dnssd_ipc.c.i
+src/dnssd/dnssd_clientstub.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.i
+.PHONY : src/dnssd/dnssd_clientstub.c.i
 
-src/dnssd_ipc.s: src/dnssd_ipc.c.s
+src/dnssd/dnssd_clientstub.s: src/dnssd/dnssd_clientstub.c.s
 
-.PHONY : src/dnssd_ipc.s
+.PHONY : src/dnssd/dnssd_clientstub.s
 
 # target to generate assembly for a file
-src/dnssd_ipc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd_ipc.c.s
-.PHONY : src/dnssd_ipc.c.s
+src/dnssd/dnssd_clientstub.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_clientstub.c.s
+.PHONY : src/dnssd/dnssd_clientstub.c.s
 
-src/edwards25519.o: src/edwards25519.c.o
+src/dnssd/dnssd_ipc.o: src/dnssd/dnssd_ipc.c.o
 
-.PHONY : src/edwards25519.o
+.PHONY : src/dnssd/dnssd_ipc.o
 
 # target to build an object file
-src/edwards25519.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/edwards25519.c.o
-.PHONY : src/edwards25519.c.o
+src/dnssd/dnssd_ipc.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.o
+.PHONY : src/dnssd/dnssd_ipc.c.o
 
-src/edwards25519.i: src/edwards25519.c.i
+src/dnssd/dnssd_ipc.i: src/dnssd/dnssd_ipc.c.i
 
-.PHONY : src/edwards25519.i
+.PHONY : src/dnssd/dnssd_ipc.i
 
 # target to preprocess a source file
-src/edwards25519.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/edwards25519.c.i
-.PHONY : src/edwards25519.c.i
+src/dnssd/dnssd_ipc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.i
+.PHONY : src/dnssd/dnssd_ipc.c.i
 
-src/edwards25519.s: src/edwards25519.c.s
+src/dnssd/dnssd_ipc.s: src/dnssd/dnssd_ipc.c.s
 
-.PHONY : src/edwards25519.s
+.PHONY : src/dnssd/dnssd_ipc.s
 
 # target to generate assembly for a file
-src/edwards25519.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/edwards25519.c.s
-.PHONY : src/edwards25519.c.s
+src/dnssd/dnssd_ipc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/dnssd/dnssd_ipc.c.s
+.PHONY : src/dnssd/dnssd_ipc.c.s
 
 src/main.o: src/main.cpp.o
 
@@ -1080,59 +1026,86 @@ src/sockets.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/sockets.cpp.s
 .PHONY : src/sockets.cpp.s
 
-src/spake25519.o: src/spake25519.c.o
+src/spake25519/cbs.o: src/spake25519/cbs.c.o
 
-.PHONY : src/spake25519.o
-
-# target to build an object file
-src/spake25519.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519.c.o
-.PHONY : src/spake25519.c.o
-
-src/spake25519.i: src/spake25519.c.i
-
-.PHONY : src/spake25519.i
-
-# target to preprocess a source file
-src/spake25519.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519.c.i
-.PHONY : src/spake25519.c.i
-
-src/spake25519.s: src/spake25519.c.s
-
-.PHONY : src/spake25519.s
-
-# target to generate assembly for a file
-src/spake25519.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519.c.s
-.PHONY : src/spake25519.c.s
-
-src/sssl_cert.o: src/sssl_cert.cpp.o
-
-.PHONY : src/sssl_cert.o
+.PHONY : src/spake25519/cbs.o
 
 # target to build an object file
-src/sssl_cert.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/sssl_cert.cpp.o
-.PHONY : src/sssl_cert.cpp.o
+src/spake25519/cbs.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/cbs.c.o
+.PHONY : src/spake25519/cbs.c.o
 
-src/sssl_cert.i: src/sssl_cert.cpp.i
+src/spake25519/cbs.i: src/spake25519/cbs.c.i
 
-.PHONY : src/sssl_cert.i
+.PHONY : src/spake25519/cbs.i
 
 # target to preprocess a source file
-src/sssl_cert.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/sssl_cert.cpp.i
-.PHONY : src/sssl_cert.cpp.i
+src/spake25519/cbs.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/cbs.c.i
+.PHONY : src/spake25519/cbs.c.i
 
-src/sssl_cert.s: src/sssl_cert.cpp.s
+src/spake25519/cbs.s: src/spake25519/cbs.c.s
 
-.PHONY : src/sssl_cert.s
+.PHONY : src/spake25519/cbs.s
 
 # target to generate assembly for a file
-src/sssl_cert.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/sssl_cert.cpp.s
-.PHONY : src/sssl_cert.cpp.s
+src/spake25519/cbs.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/cbs.c.s
+.PHONY : src/spake25519/cbs.c.s
+
+src/spake25519/edwards25519.o: src/spake25519/edwards25519.c.o
+
+.PHONY : src/spake25519/edwards25519.o
+
+# target to build an object file
+src/spake25519/edwards25519.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.o
+.PHONY : src/spake25519/edwards25519.c.o
+
+src/spake25519/edwards25519.i: src/spake25519/edwards25519.c.i
+
+.PHONY : src/spake25519/edwards25519.i
+
+# target to preprocess a source file
+src/spake25519/edwards25519.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.i
+.PHONY : src/spake25519/edwards25519.c.i
+
+src/spake25519/edwards25519.s: src/spake25519/edwards25519.c.s
+
+.PHONY : src/spake25519/edwards25519.s
+
+# target to generate assembly for a file
+src/spake25519/edwards25519.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/edwards25519.c.s
+.PHONY : src/spake25519/edwards25519.c.s
+
+src/spake25519/spake25519.o: src/spake25519/spake25519.c.o
+
+.PHONY : src/spake25519/spake25519.o
+
+# target to build an object file
+src/spake25519/spake25519.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.o
+.PHONY : src/spake25519/spake25519.c.o
+
+src/spake25519/spake25519.i: src/spake25519/spake25519.c.i
+
+.PHONY : src/spake25519/spake25519.i
+
+# target to preprocess a source file
+src/spake25519/spake25519.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.i
+.PHONY : src/spake25519/spake25519.c.i
+
+src/spake25519/spake25519.s: src/spake25519/spake25519.c.s
+
+.PHONY : src/spake25519/spake25519.s
+
+# target to generate assembly for a file
+src/spake25519/spake25519.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pairdb.dir/build.make CMakeFiles/pairdb.dir/src/spake25519/spake25519.c.s
+.PHONY : src/spake25519/spake25519.c.s
 
 src/tls_connection.o: src/tls_connection.cpp.o
 
@@ -1247,21 +1220,15 @@ help:
 	@echo "... src/android_pubkey.o"
 	@echo "... src/android_pubkey.i"
 	@echo "... src/android_pubkey.s"
-	@echo "... src/cbs.o"
-	@echo "... src/cbs.i"
-	@echo "... src/cbs.s"
 	@echo "... src/crypto.o"
 	@echo "... src/crypto.i"
 	@echo "... src/crypto.s"
-	@echo "... src/dnssd_clientstub.o"
-	@echo "... src/dnssd_clientstub.i"
-	@echo "... src/dnssd_clientstub.s"
-	@echo "... src/dnssd_ipc.o"
-	@echo "... src/dnssd_ipc.i"
-	@echo "... src/dnssd_ipc.s"
-	@echo "... src/edwards25519.o"
-	@echo "... src/edwards25519.i"
-	@echo "... src/edwards25519.s"
+	@echo "... src/dnssd/dnssd_clientstub.o"
+	@echo "... src/dnssd/dnssd_clientstub.i"
+	@echo "... src/dnssd/dnssd_clientstub.s"
+	@echo "... src/dnssd/dnssd_ipc.o"
+	@echo "... src/dnssd/dnssd_ipc.i"
+	@echo "... src/dnssd/dnssd_ipc.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -1289,12 +1256,15 @@ help:
 	@echo "... src/sockets.o"
 	@echo "... src/sockets.i"
 	@echo "... src/sockets.s"
-	@echo "... src/spake25519.o"
-	@echo "... src/spake25519.i"
-	@echo "... src/spake25519.s"
-	@echo "... src/sssl_cert.o"
-	@echo "... src/sssl_cert.i"
-	@echo "... src/sssl_cert.s"
+	@echo "... src/spake25519/cbs.o"
+	@echo "... src/spake25519/cbs.i"
+	@echo "... src/spake25519/cbs.s"
+	@echo "... src/spake25519/edwards25519.o"
+	@echo "... src/spake25519/edwards25519.i"
+	@echo "... src/spake25519/edwards25519.s"
+	@echo "... src/spake25519/spake25519.o"
+	@echo "... src/spake25519/spake25519.i"
+	@echo "... src/spake25519/spake25519.s"
 	@echo "... src/tls_connection.o"
 	@echo "... src/tls_connection.i"
 	@echo "... src/tls_connection.s"

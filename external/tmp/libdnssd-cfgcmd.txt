@@ -1,0 +1,1 @@
+cmd='/Users/john/CLionProjects/pairdb/external/configure'

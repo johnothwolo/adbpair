@@ -38,7 +38,7 @@
 
 #include <wolfssl/wolfcrypt/logging.h>
 
-#include "spake25519.h"
+#include "spake25519/spake25519.h"
 
 namespace wolfssl
 {

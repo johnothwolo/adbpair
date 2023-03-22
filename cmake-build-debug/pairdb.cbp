@@ -2017,43 +2017,31 @@
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/android_pubkey.hpp">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/cbs.c">
-			<Option target="pairdb"/>
-		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/cbs.h">
-			<Option target="pairdb"/>
-		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/crypto.cpp">
 			<Option target="pairdb"/>
 		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/crypto.hpp">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/dns_sd.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dns_sd.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd_clientstub.c">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.c">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd_clientstub.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_clientstub.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd_ipc.c">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.c">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd_ipc.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/dnssd_ipc.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/edwards25519.c">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/mdns_strict.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/edwards25519.h">
-			<Option target="pairdb"/>
-		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/edwards25519_fiat.h">
-			<Option target="pairdb"/>
-		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/edwards25519_tables.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/dnssd/strict.h">
 			<Option target="pairdb"/>
 		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/main.cpp">
@@ -2063,9 +2051,6 @@
 			<Option target="pairdb"/>
 		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/mdns_manager.hpp">
-			<Option target="pairdb"/>
-		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/mdns_strict.h">
 			<Option target="pairdb"/>
 		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/pair_client.cpp">
@@ -2107,19 +2092,28 @@
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/sockets.hpp">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519.c">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/cbs.c">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/cbs.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/sssl_cert.cpp">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/edwards25519.c">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/sssl_cert.hpp">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/edwards25519.h">
 			<Option target="pairdb"/>
 		</Unit>
-		<Unit filename="/Users/john/CLionProjects/pairdb/src/strict.h">
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/edwards25519_fiat.h">
+			<Option target="pairdb"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/edwards25519_tables.h">
+			<Option target="pairdb"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/spake25519.c">
+			<Option target="pairdb"/>
+		</Unit>
+		<Unit filename="/Users/john/CLionProjects/pairdb/src/spake25519/spake25519.h">
 			<Option target="pairdb"/>
 		</Unit>
 		<Unit filename="/Users/john/CLionProjects/pairdb/src/tls_connection.cpp">

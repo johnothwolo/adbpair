@@ -12,9 +12,7 @@
 #include <cstdlib>
 #include <string>
 
-__BEGIN_DECLS
-#include <dns_sd.h>
-__END_DECLS
+#include "dnssd/dns_sd.h"
 
 int ParseVersionFromTxtRecord(uint16_t txt_len, const unsigned char* txt_record);
 

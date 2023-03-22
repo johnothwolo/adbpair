@@ -56,7 +56,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -75,7 +74,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -101,9 +99,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/client/client.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -195,7 +191,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -214,7 +209,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -240,9 +234,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../externa
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/examples/server/server.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -355,7 +347,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -378,7 +369,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/falcon.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -418,9 +408,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_seco.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/iotsafe/iotsafe.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/api.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
@@ -516,7 +504,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -535,7 +522,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -561,9 +547,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/hash.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -655,7 +639,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -674,7 +657,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -700,9 +682,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wol
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/srp.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -797,7 +777,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -816,7 +795,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -843,9 +821,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/suites.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -936,7 +912,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -955,7 +930,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips_test.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
@@ -982,9 +956,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wo
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/unit.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h
@@ -1076,7 +1048,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/async.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/chacha.h
@@ -1095,7 +1066,6 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/error-crypt.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/fips.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/hash.h
@@ -1122,9 +1092,7 @@ external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolf
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/arm/cryptoCell.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/atmel/atmel.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
-external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
 external/wolfssl/CMakeFiles/unit_test.dir/tests/w64wrapper.c.o: ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h

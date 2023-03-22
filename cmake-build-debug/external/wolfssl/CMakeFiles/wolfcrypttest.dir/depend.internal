@@ -60,7 +60,6 @@ external/wolfssl/CMakeFiles/wolfcrypttest.dir/wolfcrypt/test/test.c.o
  ../external/wolfssl/wolfssl/wolfcrypt/arc4.h
  ../external/wolfssl/wolfssl/wolfcrypt/asn.h
  ../external/wolfssl/wolfssl/wolfcrypt/asn_public.h
- ../external/wolfssl/wolfssl/wolfcrypt/async.h
  ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
  ../external/wolfssl/wolfssl/wolfcrypt/blake2.h
  ../external/wolfssl/wolfssl/wolfcrypt/camellia.h
@@ -83,7 +82,6 @@ external/wolfssl/CMakeFiles/wolfcrypttest.dir/wolfcrypt/test/test.c.o
  ../external/wolfssl/wolfssl/wolfcrypt/ext_kyber.h
  ../external/wolfssl/wolfssl/wolfcrypt/fe_448.h
  ../external/wolfssl/wolfssl/wolfcrypt/fe_operations.h
- ../external/wolfssl/wolfssl/wolfcrypt/fips.h
  ../external/wolfssl/wolfssl/wolfcrypt/fips_test.h
  ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
  ../external/wolfssl/wolfssl/wolfcrypt/ge_operations.h
@@ -122,10 +120,8 @@ external/wolfssl/CMakeFiles/wolfcrypttest.dir/wolfcrypt/test/test.c.o
  ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_seco.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_sha.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/caam/wolfcaam_x25519.h
- ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_octeon_sync.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
- ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_dh.h
  ../external/wolfssl/wolfssl/wolfcrypt/port/kcapi/kcapi_ecc.h

@@ -712,8 +712,6 @@ wolfssl/wolfcrypt/dsa.h
 wolfssl/wolfcrypt/random.h
 -
 
-../external/wolfssl/wolfssl/wolfcrypt/async.h
-
 ../external/wolfssl/wolfssl/wolfcrypt/blake2-int.h
 wolfssl/wolfcrypt/types.h
 -
@@ -905,8 +903,6 @@ wolfssl/wolfcrypt/settings.h
 -
 wolfssl/wolfcrypt/types.h
 -
-
-../external/wolfssl/wolfssl/wolfcrypt/fips.h
 
 ../external/wolfssl/wolfssl/wolfcrypt/ge_448.h
 wolfssl/wolfcrypt/settings.h
@@ -1103,14 +1099,20 @@ driver/periph_ctrl.h
 ../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/driver/periph_ctrl.h
 esp32/rom/ets_sys.h
 -
+esp32s3/rom/ets_sys.h
+-
 rom/ets_sys.h
 -
 esp32/rom/aes.h
 ../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/esp32/rom/aes.h
+esp32s3/rom/aes.h
+../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/esp32s3/rom/aes.h
 rom/aes.h
 ../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/rom/aes.h
 esp32/rom/sha.h
 ../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/esp32/rom/sha.h
+esp32s3/rom/sha.h
+../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/esp32s3/rom/sha.h
 rom/sha.h
 ../external/wolfssl/wolfssl/wolfcrypt/port/Espressif/rom/sha.h
 
@@ -1214,8 +1216,6 @@ wolfssl/wolfcrypt/settings.h
 wolfssl/wolfcrypt/types.h
 -
 
-../external/wolfssl/wolfssl/wolfcrypt/port/cavium/cavium_nitrox.h
-
 ../external/wolfssl/wolfssl/wolfcrypt/port/devcrypto/wc_devcrypto.h
 wolfssl/wolfcrypt/types.h
 -
@@ -1229,8 +1229,6 @@ crypto/cryptodev.h
 -
 stdio.h
 -
-
-../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_mem.h
 
 ../external/wolfssl/wolfssl/wolfcrypt/port/intel/quickassist_sync.h
 

@@ -16,24 +16,12 @@ add_executable(pairdb
         src/aes_128_gcm.hpp
         src/android_pubkey.cpp
         src/android_pubkey.hpp
-        src/cbs.h
-        src/cbs.c
         src/CImg.h
         src/crypto.cpp
         src/crypto.hpp
-        src/dns_sd.h
-        src/dnssd_clientstub.c
-        src/dnssd_clientstub.h
-        src/dnssd_ipc.c
-        src/dnssd_ipc.h
-        src/edwards25519_fiat.h
-        src/edwards25519_tables.h
-        src/edwards25519.c
-        src/edwards25519.h
         src/main.cpp
         src/mdns_manager.cpp
         src/mdns_manager.hpp
-        src/mdns_strict.h
         src/pair_client.cpp
         src/pair_client.hpp
         src/pairing_auth.cpp
@@ -51,16 +39,28 @@ add_executable(pairdb
         src/socket_network_windows.cpp
         src/sockets.cpp
         src/sockets.hpp
-        src/spake25519.c
-        src/spake25519.h
-        src/sssl_cert.cpp
-        src/sssl_cert.hpp
-        src/strict.h
         src/TinyPngOut.cpp
         src/TinyPngOut.hpp
         src/tls_connection.cpp
         src/tls_connection.hpp
         src/tlv.cpp
+
+        src/spake25519/cbs.h
+        src/spake25519/cbs.c
+        src/spake25519/edwards25519_fiat.h
+        src/spake25519/edwards25519_tables.h
+        src/spake25519/edwards25519.c
+        src/spake25519/edwards25519.h
+        src/spake25519/spake25519.c
+        src/spake25519/spake25519.h
+
+        src/dnssd/dns_sd.h
+        src/dnssd/dnssd_clientstub.c
+        src/dnssd/dnssd_clientstub.h
+        src/dnssd/dnssd_ipc.c
+        src/dnssd/dnssd_ipc.h
+        src/dnssd/mdns_strict.h
+        src/dnssd/strict.h
         )
 
 add_dependencies(pairdb wolfssl png_static)
